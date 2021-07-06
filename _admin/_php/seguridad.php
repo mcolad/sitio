@@ -45,7 +45,7 @@
 	
 //	$valor = str_ireplace(" OR ","",$valor);
 //	$valor = str_ireplace("LIKE","",$valor);
-	$valor = str_ireplace("--","",$valor);
+//	$valor = str_ireplace("--","",$valor);
 	$valor = str_ireplace("^","",$valor);
 	$valor = str_ireplace("¨",'"',$valor);
 	$valor = str_ireplace("'",'"',$valor);
