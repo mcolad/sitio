@@ -1,0 +1,8 @@
+[16-Apr-2019 10:54:26 UTC] PHP Notice:  Undefined variable: result_funciones in /home9/delperchel/public_html/sitio/config.php on line 38
+[16-Apr-2019 10:54:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home9/delperchel/public_html/sitio/config.php on line 38
+[16-Apr-2019 10:54:58 UTC] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 5
+[16-Apr-2019 10:57:44 UTC] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 5
+[16-Apr-2019 10:59:49 UTC] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 5
+[16-Apr-2019 11:00:17 UTC] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 5
+[16-Apr-2019 11:02:02 UTC] PHP Parse error:  syntax error, unexpected '" => "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 4
+[16-Apr-2019 11:02:26 UTC] PHP Parse error:  syntax error, unexpected '" => "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home9/delperchel/public_html/sitio/config.php(40) : eval()'d code on line 4
